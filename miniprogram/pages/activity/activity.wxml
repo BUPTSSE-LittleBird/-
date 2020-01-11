@@ -1,0 +1,35 @@
+<view class="topGroup">
+    <view class="searchGroup">
+        <input class="searchInput" placeholder-class="placeholderInput" placeholder="请输入想查询的活动"></input>
+    </view>
+</view>
+
+<view class="container">
+    <view class="project">
+        <image class=" projectImage" src="/icon/temp.jpg"></image>
+        <view class="information">
+            <text class="name">看见那就是南斯拉夫上看到你发</text>
+            <view class="bottom">
+                <image src="/icon/kaoqinqiandao.png"></image>
+                <text>看见说的呢</text>
+                <image src="/icon/faxian.png"></image>
+                <text>67</text>
+            </view>
+        </view>
+    </view>
+</view>
+
+<view class="container">
+    <view class="project">
+        <image class=" projectImage" src="/icon/temp.jpg"></image>
+        <view class="information">
+            <text class="name">看见那就是南斯拉夫上看到你发</text>
+            <view class="bottom">
+                <image src="/icon/kaoqinqiandao.png"></image>
+                <text>看见说的呢</text>
+                <image src="/icon/faxian.png"></image>
+                <text>67</text>
+            </view>
+        </view>
+    </view>
+</view>
