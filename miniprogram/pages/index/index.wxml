@@ -1,0 +1,60 @@
+<view class="topGroup">
+  <view class="searchGroup">
+    <input class="searchInput" placeholder-class="placeholderInput" placeholder="爱是"></input>
+  </view>
+  <view class="moreGroup">
+    <image src="/icon/sousuo.png"></image>
+  </view>
+</view>
+<scroll-view class="indexPicture" scroll-x="{{true}}">
+  <view class="indexPictureItem pic1"></view>
+  <view class="indexPictureItem pic2"></view>
+  <view class="indexPictureItem pic3"></view>
+  <view class="indexPictureItem pic4"></view>
+</scroll-view>
+<view class="mainMenuGroup">
+  <view class="mainMenu">
+    <image src="/icon/5.png" bindtap="click1"></image>
+    <text>活动招募</text>
+  </view>
+  <view class="mainMenu">
+    <image src="/icon/6.png" bindtap="click2"></image>
+    <text>加入组织</text>
+  </view>
+  <view class="mainMenu">
+    <image src="/icon/7.png"></image>
+    <text>星级评定</text>
+  </view>
+  <view class="mainMenu">
+    <image src="/icon/8.png"></image>
+    <text>信用积分</text>
+  </view>
+</view>
+<view class="moreFuction">
+  <view class="moreFuctionTop">
+    <image src="/icon/hh.jpg"></image>
+    <text>更多功能</text>
+  </view>
+  <view class="moreFuctionBottom">
+    <view class="moreFuctionLeft" style="background-image: url('/icon/1.jpg');" bindtap="click1" >
+      <text class="picText">更多项目</text>
+    </view>
+    <view class="moreFuctionRight">
+      <view class="rightItem" style="background-image: url('/icon/2.jpg');">
+        <text class="picText">项目地图</text>
+      </view>
+      <view class="rightItem" style="background-image: url('/icon/3.jpg');">
+        <text class="picText">发布项目</text>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="moreFuction">
+  <view class="moreFuctionTop">
+    <image src="/icon/hh.jpg"></image>
+    <text>精彩回顾</text>
+  </view>
+  <view class="review" style="background-image: url('/icon/4.jpg');">
+    <text class="picText">精彩回顾</text>
+  </view>
+</view>
