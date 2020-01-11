@@ -1,0 +1,24 @@
+.topGroup{
+    background: #1e82d2;
+    padding: 20rpx;
+    height: 58rpx;
+    width: 100%;
+    display: flex;
+}
+
+.topGroup .searchGroup{
+    display: flex;
+    width: 700rpx;
+}
+
+.topGroup .searchGroup .searchInput{
+    flex: 1;
+    background: #1a71b7;
+    border-radius: 4px;
+    padding: 0 10rpx;
+    font-size: 24rpx;
+}
+
+.topGroup .searchGroup .placeholderInput{
+    color: white;
+}

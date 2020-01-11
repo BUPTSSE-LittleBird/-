@@ -1,0 +1,5 @@
+<view class="topGroup">
+    <view class="searchGroup">
+        <input class="searchInput" placeholder-class="placeholderInput" placeholder="请输入想查询的活动"></input>
+    </view>
+</view>
