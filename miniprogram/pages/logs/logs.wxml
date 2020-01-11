@@ -1,0 +1,72 @@
+<view class="container">
+  <view class="user">
+    <view class="userTop">
+      <image class="avatar" src="/icon/xingxing.png"></image>
+      <view class="rightInfo">
+        <view class="name">哈哈哈哈</view>
+        <view class="star">
+          <image src="/icon/xingxing.png"></image>
+          <image src="/icon/xingxing.png"></image>
+          <image src="/icon/xingxing-2.png"></image>
+          <image src="/icon/xingxing-2.png"></image>
+          <image src="/icon/xingxing-2.png"></image>
+        </view>
+      </view>
+    </view>
+    <view class="userBottom">
+      <view class="msg">
+        <text>0</text>
+        <text>服务时长</text>
+      </view>
+      <view class="msg">
+        <text>50</text>
+        <text>信用积分</text>
+      </view>
+      <view class="msg">
+        <text>999</text>
+        <text>个人排名</text>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="bet"></view>
+
+<view class="myFunction">
+  <view class="function">
+    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <text>已报名活动</text>
+    <image class="picRight" src="/icon/jiantou.png"></image>
+  </view>
+  <view class="bet1"></view>
+  <view class="function">
+    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <text>已签到活动</text>
+    <image class="picRight" src="/icon/jiantou.png"></image>
+  </view>
+  <view class="bet1"></view>
+  <view class="function">
+    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <text>我的资料</text>
+    <image class="picRight" src="/icon/jiantou.png"></image>
+  </view>
+  <view class="bet1"></view>
+  <view class="function">
+    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <text>我的评论</text>
+    <image class="picRight" src="/icon/jiantou.png"></image>
+  </view>
+  <view class="bet1"></view>
+  <view class="function">
+    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <text>加入的组织</text>
+    <image class="picRight" src="/icon/jiantou.png"></image>
+  </view>
+  <view class="bet1"></view>
+  <view class="function">
+    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <text>我的组织</text>
+    <image class="picRight" src="/icon/jiantou.png"></image>
+  </view>
+  <view class="bet1"></view>
+</view>
