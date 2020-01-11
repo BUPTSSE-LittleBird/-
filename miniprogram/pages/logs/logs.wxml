@@ -1,15 +1,15 @@
 <view class="container">
   <view class="user">
     <view class="userTop">
-      <image class="avatar" src="/icon/xingxing.png"></image>
+      <image class="avatar" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
       <view class="rightInfo">
         <view class="name">哈哈哈哈</view>
         <view class="star">
-          <image src="/icon/xingxing.png"></image>
-          <image src="/icon/xingxing.png"></image>
-          <image src="/icon/xingxing-2.png"></image>
-          <image src="/icon/xingxing-2.png"></image>
-          <image src="/icon/xingxing-2.png"></image>
+          <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
+          <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
+          <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing-2.png"></image>
+          <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing-2.png"></image>
+          <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing-2.png"></image>
         </view>
       </view>
     </view>
@@ -34,39 +34,39 @@
 
 <view class="myFunction">
   <view class="function">
-    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <image class="picLeft" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
     <text>已报名活动</text>
-    <image class="picRight" src="/icon/jiantou.png"></image>
+    <image class="picRight" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/jiantou.png"></image>
   </view>
   <view class="bet1"></view>
   <view class="function">
-    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <image class="picLeft" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
     <text>已签到活动</text>
-    <image class="picRight" src="/icon/jiantou.png"></image>
+    <image class="picRight" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/jiantou.png"></image>
   </view>
   <view class="bet1"></view>
   <view class="function">
-    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <image class="picLeft" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
     <text>我的资料</text>
-    <image class="picRight" src="/icon/jiantou.png"></image>
+    <image class="picRight" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/jiantou.png"></image>
   </view>
   <view class="bet1"></view>
   <view class="function">
-    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <image class="picLeft" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
     <text>我的评论</text>
-    <image class="picRight" src="/icon/jiantou.png"></image>
+    <image class="picRight" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/jiantou.png"></image>
   </view>
   <view class="bet1"></view>
   <view class="function">
-    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <image class="picLeft" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
     <text>加入的组织</text>
-    <image class="picRight" src="/icon/jiantou.png"></image>
+    <image class="picRight" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/jiantou.png"></image>
   </view>
   <view class="bet1"></view>
   <view class="function">
-    <image class="picLeft" src="/icon/xingxing.png"></image>
+    <image class="picLeft" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/xingxing.png"></image>
     <text>我的组织</text>
-    <image class="picRight" src="/icon/jiantou.png"></image>
+    <image class="picRight" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/jiantou.png"></image>
   </view>
   <view class="bet1"></view>
 </view>
