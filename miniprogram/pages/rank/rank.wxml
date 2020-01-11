@@ -2,11 +2,11 @@
     <view class="projectGroup">
         <view class="rank">1</view>
         <view class="userGroup">
-            <image class="avatar" src="/icon/weixin.png"></image>
+            <image class="avatar" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/weixin.png"></image>
             <view class="rightInfo">
                 <view class="name">哈哈哈</view>
                 <view class="time">
-                    <image src="/icon/shijian.png"></image>
+                    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/shijian.png"></image>
                     <view>242134h</view>
                 </view>
             </view>
@@ -20,11 +20,11 @@
     <view class="projectGroup">
         <view class="rank">1</view>
         <view class="userGroup">
-            <image class="avatar" src="/icon/weixin.png"></image>
+            <image class="avatar" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/weixin.png"></image>
             <view class="rightInfo">
                 <view class="name">哈哈哈</view>
                 <view class="time">
-                    <image src="/icon/shijian.png"></image>
+                    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/shijian.png"></image>
                     <view>242134h</view>
                 </view>
             </view>
