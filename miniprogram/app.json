@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/group/group",
+    "pages/signIn/signIn",
+    "pages/rank/rank",
+    "pages/activity/activity",
+    "pages/organization/organization"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1e82d2",
+    "navigationBarTitleText": "爱邮心生",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icon/shouye.png",
+        "selectedIconPath": "icon/shouye-2.png"
+      },
+      {
+        "pagePath": "pages/group/group",
+        "text": "发现",
+        "iconPath": "icon/faxian.png",
+        "selectedIconPath": "icon/faxian-2.png"
+      },
+      {
+        "pagePath": "pages/signIn/signIn",
+        "text": "签到",
+        "iconPath": "icon/kaoqinqiandao.png",
+        "selectedIconPath": "icon/kaoqinqiandao2.png"
+      },
+      {
+        "pagePath": "pages/rank/rank",
+        "text": "排行",
+        "iconPath": "icon/paihang.png",
+        "selectedIconPath": "icon/paihang2.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "我的",
+        "iconPath": "icon/wode.png",
+        "selectedIconPath": "icon/wode2.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
