@@ -6,13 +6,13 @@
 
 <view class="container">
     <view class="project">
-        <image class=" projectImage" src="/icon/temp.jpg"></image>
+        <image class=" projectImage" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/temp.jpg"></image>
         <view class="information">
             <text class="name">看见那就是南斯拉夫上看到你发</text>
             <view class="bottom">
-                <image src="/icon/kaoqinqiandao.png"></image>
+                <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/kaoqinqiandao.png"></image>
                 <text>看见说的呢</text>
-                <image src="/icon/faxian.png"></image>
+                <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/faxian.png"></image>
                 <text>67</text>
             </view>
         </view>
@@ -21,13 +21,13 @@
 
 <view class="container">
     <view class="project">
-        <image class=" projectImage" src="/icon/temp.jpg"></image>
+        <image class=" projectImage" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/temp.jpg"></image>
         <view class="information">
             <text class="name">看见那就是南斯拉夫上看到你发</text>
             <view class="bottom">
-                <image src="/icon/kaoqinqiandao.png"></image>
+                <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/kaoqinqiandao.png"></image>
                 <text>看见说的呢</text>
-                <image src="/icon/faxian.png"></image>
+                <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/faxian.png"></image>
                 <text>67</text>
             </view>
         </view>
