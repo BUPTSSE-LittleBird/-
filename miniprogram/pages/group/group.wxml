@@ -1,0 +1,47 @@
+
+<view class="container">
+    <view class="projectGroup">
+        <view class="userGroup">
+            <image class="avatar" src="/icon/weixin.png"></image>
+            <view class="rightInfo">
+                <view class="name">国家图书馆志愿服务哈哈哈项目</view>
+                <view class="detail">
+                    <view class="time">
+                        <text>活动时长: </text>
+                        <view>Lorem ipsum.</view>
+                    </view>
+                    <view class="num">
+                        <text>报名人数: </text>
+                        <view>Lorem.</view>
+                        <view>/Lorem.</view>
+                    </view>
+                </view>
+            </view>
+            <button class="signUp">报名中</button>
+        </view>
+    </view>
+</view>
+<view class="bet"></view>
+<view class="container">
+    <view class="projectGroup">
+        <view class="userGroup">
+            <image class="avatar" src="/icon/weixin.png"></image>
+            <view class="rightInfo">
+                <view class="name">国家图书馆志愿服务哈哈哈哈哈哈哈项目</view>
+                <view class="detail">
+                    <view class="time">
+                        <text>活动时长: </text>
+                        <view>Lorem ipsum.</view>
+                    </view>
+                    <view class="num">
+                        <text>报名人数: </text>
+                        <view>Lorem.</view>
+                        <view>/Lorem.</view>
+                    </view>
+                </view>
+            </view>
+            <button class="signUp">报名中</button>
+        </view>
+    </view>
+</view>
+<view class="bet"></view>
