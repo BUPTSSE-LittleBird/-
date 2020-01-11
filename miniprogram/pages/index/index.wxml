@@ -3,7 +3,7 @@
     <input class="searchInput" placeholder-class="placeholderInput" placeholder="爱是"></input>
   </view>
   <view class="moreGroup">
-    <image src="/icon/sousuo.png"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/sousuo.png"></image>
   </view>
 </view>
 <scroll-view class="indexPicture" scroll-x="{{true}}">
@@ -14,25 +14,25 @@
 </scroll-view>
 <view class="mainMenuGroup">
   <view class="mainMenu">
-    <image src="/icon/5.png" bindtap="click1"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/5.png" bindtap="click1"></image>
     <text>活动招募</text>
   </view>
   <view class="mainMenu">
-    <image src="/icon/6.png" bindtap="click2"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/6.png" bindtap="click2"></image>
     <text>加入组织</text>
   </view>
   <view class="mainMenu">
-    <image src="/icon/7.png"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/7.png"></image>
     <text>星级评定</text>
   </view>
   <view class="mainMenu">
-    <image src="/icon/8.png"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/8.png"></image>
     <text>信用积分</text>
   </view>
 </view>
 <view class="moreFuction">
   <view class="moreFuctionTop">
-    <image src="/icon/hh.jpg"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/hh.jpg"></image>
     <text>更多功能</text>
   </view>
   <view class="moreFuctionBottom">
@@ -51,7 +51,7 @@
 </view>
 <view class="moreFuction">
   <view class="moreFuctionTop">
-    <image src="/icon/hh.jpg"></image>
+    <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/hh.jpg"></image>
     <text>精彩回顾</text>
   </view>
   <view class="review" style="background-image: url('/icon/4.jpg');">
