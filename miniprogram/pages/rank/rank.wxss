@@ -1,0 +1,49 @@
+.container{
+    padding: 20rpx;
+    height: 80rpx;
+}
+
+.container .projectGroup{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.projectGroup .rank{
+    font-size: 40rpx;
+    font-family:  monospace;
+}
+.userGroup{
+    display: flex;
+}
+
+.userGroup .avatar{
+    margin-left: 10rpx;
+    height: 70rpx;
+    width: 70rpx;
+    border-radius: 50%;
+}
+
+.userGroup .rightInfo{
+    margin-left: 10rpx;
+    display: flex;
+    flex-direction: row;
+}
+
+.time{
+    display: flex;
+    position: absolute;
+    left: 520rpx;
+    right: auto;
+}
+
+.time image{
+    height: 50rpx;
+    width: 50rpx;
+}
+
+.bet{
+    background: aliceblue;
+    width: 100%;
+    height: 20rpx;
+}

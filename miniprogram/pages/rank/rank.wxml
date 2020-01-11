@@ -1,0 +1,35 @@
+<view class="container">
+    <view class="projectGroup">
+        <view class="rank">1</view>
+        <view class="userGroup">
+            <image class="avatar" src="/icon/weixin.png"></image>
+            <view class="rightInfo">
+                <view class="name">哈哈哈</view>
+                <view class="time">
+                    <image src="/icon/shijian.png"></image>
+                    <view>242134h</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+
+<view class="bet"></view>
+
+<view class="container">
+    <view class="projectGroup">
+        <view class="rank">1</view>
+        <view class="userGroup">
+            <image class="avatar" src="/icon/weixin.png"></image>
+            <view class="rightInfo">
+                <view class="name">哈哈哈</view>
+                <view class="time">
+                    <image src="/icon/shijian.png"></image>
+                    <view>242134h</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+
+<view class="bet"></view>
