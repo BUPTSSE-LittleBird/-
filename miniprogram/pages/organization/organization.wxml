@@ -1,5 +1,47 @@
 <view class="topGroup">
     <view class="searchGroup">
-        <input class="searchInput" placeholder-class="placeholderInput" placeholder="请输入想查询的活动"></input>
+        <input class="searchInput" placeholder-class="placeholderInput" placeholder="请输入想查询的组织"></input>
+    </view>
+</view>
+<view class="container">
+    <view class="organizationGroup">
+        <view class="userGroup">
+            <image class="avatar" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/weixin.png"></image>
+            <view class="rightInfo">
+                <view class="name">爱是志愿者协会</view>
+                <view class="detail">
+                    <view class="activities">
+                        <text>项目数量: </text>
+                        <view>Lorem ipsum.</view>
+                    </view>
+                    <view class="people">
+                        <text>活动人次: </text>
+                        <view>lorem</view>
+                    </view>
+                </view>
+            </view>
+        </view>
+        <view class="time">1922.0 h</view>
+    </view>
+</view>
+<view class="container">
+    <view class="organizationGroup">
+        <view class="userGroup">
+            <image class="avatar" src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/weixin.png"></image>
+            <view class="rightInfo">
+                <view class="name">爱是志愿者协会</view>
+                <view class="detail">
+                    <view class="activities">
+                        <text>项目数量: </text>
+                        <view>Lorem ipsum.</view>
+                    </view>
+                    <view class="people">
+                        <text>活动人次: </text>
+                        <view>lorem</view>
+                    </view>
+                </view>
+            </view>
+        </view>
+        <view class="time">1922.0 h</view>
     </view>
 </view>
