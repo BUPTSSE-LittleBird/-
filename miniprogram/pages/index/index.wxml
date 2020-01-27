@@ -54,7 +54,8 @@
     <image src="cloud://test1-bor86.7465-test1-bor86-1300963487/pic/hh.jpg"></image>
     <text>精彩回顾</text>
   </view>
-  <view class="review" style="background-image: url('/icon/4.jpg');">
+  <view class="review" style="background-image: url('/icon/4.jpg');"
+  bindtap="click1">
     <text class="picText">精彩回顾</text>
   </view>
 </view>
