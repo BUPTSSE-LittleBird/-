@@ -1,0 +1,6 @@
+
+#爬虫模块
+
+database_script里面放的是建库的脚本
+volunteer里面放的爬虫程序。
+运行时运行volunteer里的main即可
