@@ -95,7 +95,7 @@ MYSQL_HOST='127.0.0.1'
 MYSQL_USER='root'
 
 #你自己数据库的密码
-MYSQL_PASSWORD='zbt***zbt080700'
+MYSQL_PASSWORD=''
 MYSQL_PORT =3306
 
 #你自己数据库的名称

@@ -24,11 +24,11 @@ class A志愿北京Spider(scrapy.Spider):
             yield scrapy.Request(crawl_url, callback=self.parseFirstPage)
 
     def parseFirstPage(self, response):  # 爬取第一个页面
-        # if self.count == 1:
-        #     self.depth = int(response.css('div.pagebar a::text')[-1].extract())
+        if self.count == 1:
+            self.depth = int(response.css('div.pagebar a::text')[-1].extract())
         for href in response.css('div.listtxt p.ptitle a::attr(href)').extract():
             try:
-                # 获取每个项目的具体链接 https://www.bv2008.cn/app/opp/view.php?id=JRQgdDbKG
+                # 获取每个项目的具体链接 
                 url = 'https://www.bv2008.cn/'+href
                 yield scrapy.Request(url, callback=self.parseProjectPage, dont_filter=True)
             except:
@@ -189,4 +189,4 @@ class A志愿北京Spider(scrapy.Spider):
             picture = requests.get(url)
             return picture.content
         except:
-            print('爬取图片失败。传入的url:'+url)
+            print('爬取图片失败。')

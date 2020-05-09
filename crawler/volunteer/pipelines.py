@@ -17,28 +17,26 @@ import traceback
 from twisted.enterprise import adbapi
 
 
-class JsonPipeline(object):
-    def __init__(self):
-        self.file = codecs.open('Json_data.json', 'w', encoding='utf-8')
+# class JsonPipeline(object):
+#     def __init__(self):
+#         self.file = codecs.open('Json_data.json', 'w', encoding='utf-8')
 
-    def process_item(self, item, spider):
-        # print("*****************************")
-        # print(type(item))
-        info = {}
-        info['outline'] = dict(item['outline'])
-        info['jobs'] = Counter(item['jobs'])
-        info['detail'] = item['detail']
-        info['contact'] = dict(item['contact'])
-        info['cover'] = item['cover']
-        info['ID'] = item['ID']
-        info['name'] = item['name']
-        line = json.dumps(info, ensure_ascii=False) + "\n"
-        print("保存成功")
-        self.file.write(line)
-        return item
+#     def process_item(self, item, spider):
+#         info = {}
+#         info['outline'] = dict(item['outline'])
+#         info['jobs'] = Counter(item['jobs'])
+#         info['detail'] = item['detail']
+#         info['contact'] = dict(item['contact'])
+#         info['cover'] = item['cover']
+#         info['ID'] = item['ID']
+#         info['name'] = item['name']
+#         line = json.dumps(info, ensure_ascii=False) + "\n"
+#         print("保存成功")
+#         self.file.write(line)
+#         return item
 
-    def spider_closed(self, spider):
-        self.file.close()
+#     def spider_closed(self, spider):
+#         self.file.close()
 
 
 class MySQLPipeline(object):
